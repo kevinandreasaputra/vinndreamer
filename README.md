@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinndreamer" alt="vinndreamer" /></a> </p>
 
-- 🔭 I’m currently working on **making portofolio**
+- 🔭 I’m currently working on **Making portofolio**
 
-- 🌱 I’m currently learning **Laravel, Tailwind, MySql, React, Next.js,**
+- 🌱 I’m currently learning **Golang, Microservices, Postgres, React, Next.js,**
 
 - 👯 I’m looking to collaborate on **freelancing**
 
@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **Web Development**
 
-- 📫 How to reach me **kevinandreas1724@gmail.com**
+- 📫 How to reach me **hello@kevinandrea.com**
 
 - ⚡ Fun fact **I think i can do it.**
 
